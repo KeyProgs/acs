@@ -1,0 +1,2538 @@
+
+/* Large Layout: 1200px. */
+@media only screen and (min-width: 1200px){
+.container {padding: 0;}
+.container-fluid{padding: 0;}    
+ 
+    
+}
+
+
+
+
+/* Medium screen  */ 
+@media only screen and (min-width: 992px) and (max-width: 1199px) {  
+
+/*** 
+=============================================
+    header Area style
+=============================================
+***/ 
+.header-style1-area .header-middle {
+    max-width: 330px;
+}
+ 
+/*** 
+=============================================
+    About v1 Area style
+=============================================
+***/     
+.about-left-content {
+    display: block;
+    margin-bottom: 50px;
+}    
+    
+/*** 
+=============================================
+    Appointment Style1 Area style
+=============================================
+***/     
+.appointment-style1-area .bg-image img{
+    min-height: 725px;
+}    
+
+/*** 
+=============================================
+    Appointment Style1 Area style
+=============================================
+***/     
+.appointment-style1-area {
+    padding: 90px 0 90px;
+    background: #083061;
+    background-image: none !important;
+    margin-top: 35px;
+}    
+.appointment-right-style1 {
+    margin-top: 50px;
+    margin-left: 100px;
+}    
+    
+/*** 
+=============================================
+    Latest Blog Area style
+=============================================
+***/ 
+.single-blog-post:before {
+    width: 15px;
+}    
+.single-blog-post .text-holder .blog-title {
+    line-height: 24px;
+    font-size: 18px;
+    padding: 18px 20px 0;
+    font-weight: 600;
+}    
+    
+/*** 
+=============================================
+    Testimonial Area style
+=============================================
+***/ 
+.testimonial-area:before {
+    min-height: 408px;
+}    
+.testimonial-area .owl-carousel{
+	max-width:475px;
+}
+.single-testimonial-style1 .text-holder {
+    margin-right: 0px;
+    margin-bottom: 10px;
+}  
+
+/*** 
+=============================================
+    Brand Area style
+=============================================
+***/     
+.brand-area .brand li {
+    max-width: 465px;
+}
+
+/*** 
+=============================================
+    Brand Area Style3 style
+=============================================
+***/      
+.brand-area.style3 .brand li {
+    margin-right: 20px;
+}    
+    
+/*** 
+=============================================
+    Footer area  style
+=============================================
+***/    
+.single-footer-widget.margin-left {
+    margin-left: 0;
+}
+.state-content ul li.inline {
+    display: block;
+    float: none;
+    margin-right: 0;
+    border-right: 0 solid;
+    padding-right: 0;
+}    
+
+    
+    
+
+    
+/*** 
+=============================================
+    Header Style2 Area style
+=============================================
+***/     
+.header-style2-logo {
+    margin: 0px 0 30px;
+    float: none !important;
+    text-align: center;
+}
+.header-style2-logo a {
+    width: 200px;
+    margin: 0 auto;
+}
+.headers2-header-right {
+    float: none !important;
+    text-align: center;
+    overflow: hidden;
+} 
+.headers2-header-right ul {
+    overflow: hidden;
+}    
+
+/*** 
+=============================================
+    Mainmenu area style2 style
+=============================================
+***/      
+.mainmenu-area.style2 .main-menu .navigation li {
+    margin-right: 15px;
+}    
+     
+/*** 
+=============================================
+    Services Style2 Area  style
+=============================================
+***/     
+.single-service-style2 .overlay-content {
+    top: -189px;
+}    
+
+/*** 
+=============================================
+    Why Choose Area  style
+=============================================
+***/     
+.why-choose .content-box {
+    max-width: 100%;
+    width: 100%;
+    min-height: 300px;
+}    
+    
+/*** 
+=============================================
+    Specialities Area  style
+=============================================
+***/      
+.specialities-image-box {
+    margin: 0 auto 70px;
+}    
+    
+/*** 
+=============================================
+    Gallery Area  style
+=============================================
+***/      
+.gallery .sec-title {
+    margin: 0;
+    padding: 71px 0 73px;
+}    
+ 
+/*** 
+=============================================
+    Appointment Style2 Area  style
+=============================================
+***/     
+.appointment-right-style2 {
+    max-width: 570px;
+    background: #E9E9E9;
+    margin: 40px auto 0;
+}   
+ 
+/*** 
+=============================================
+    Services Process Area  style
+=============================================
+***/    
+.single-service-process:before {
+    display: none;
+}    
+    
+/*** 
+=============================================
+    Feedback Section Style
+=============================================
+***/     
+.feedback-section .carousel-outer {
+    overflow: hidden;
+    width: 100%;
+    max-width: 100%;
+    float: none;
+    margin-top: 0;
+}    
+.feedback-section .inner-content .video-holder {
+    position: relative;
+    top: auto;
+    bottom: auto;
+    right: auto;
+    max-width: 100%;
+    width: 100%;
+} 
+.feedback-section .inner-content .video-holder img{
+    transform: none;
+}    
+.feedback-section .inner-content .video-holder:hover img {
+    transform: none;
+}    
+.feedback-section .carousel-outer .owl-theme .owl-nav {
+    position: absolute;
+    left: 0;
+    bottom: 0px;
+    width: 90px;
+    height: 90px;
+    z-index: 100;
+    margin: 0;
+}    
+   
+    
+    
+    
+    
+/*** 
+=============================================
+    Mainmenu Area Style3  style
+=============================================
+***/     
+.mainmenu-area.style3 .logo {
+    margin: 32px 0 33px;
+    margin-right: 40px;
+}    
+.mainmenu-area.style3 .main-menu .navigation li {
+    padding: 36.5px 10px 37.5px;
+}    
+.mainmenu-area.style3 .main-menu .navigation > li > ul > li:hover > a {
+    color: #2bb4e6; 
+} 
+.mainmenu-area.style3 .outer-search-box .seach-toggle:hover, 
+.mainmenu-area.style3 .outer-search-box .seach-toggle.active {
+    color: #2bb4e6; 
+}    
+    
+  
+ 
+    
+    
+/*** 
+=============================================
+    Contact Info Area  style
+=============================================
+***/     
+.quick-contact-box {
+    margin-top: 40px;
+    padding: 54px 40px 48px;
+}   
+
+/*** 
+=============================================
+    Working Section style
+=============================================
+***/     
+.appointment-right-style2 {
+    max-width: 570px;
+    background: #ffffff;
+    margin: 40px auto 0;
+    padding: 25px 0px 25px;
+}
+.appointment-right-style2 .button a.white-bg{
+    background: #E9E9E9;
+}    
+    
+/*** 
+=============================================
+    Shop Area style
+=============================================
+***/     
+#shop-area .sidebar-wrapper {
+    position: relative;
+    padding-top: 70px;
+}    
+    
+/*** 
+=============================================
+    Single Shop Area style
+=============================================
+***/     
+.single-shop-content .img-holder {
+    margin-right: 20px;
+}    
+.single-shop-content .content-box {
+    margin-left: -20px;
+}         
+  
+/*** 
+=============================================
+    Login Register Area style
+=============================================
+***/     
+.login-register-area .form a.forgot-password {
+    margin: 70px 0 0;
+}    
+.login-register-area .form.register {
+    overflow: hidden;
+    margin-top: 50px;
+}    
+.login-register-area .form h6 {
+    margin: 28px 0 0;
+}          
+  
+/*** 
+=============================================
+    Blog Large Area style
+=============================================
+***/      
+.blog-large-area .single-blog-post .text-holder {
+    padding-left: 15px;
+}
+    
+/*** 
+=============================================
+    Blog Single area style
+=============================================
+***/
+.author-caption-box .text-holder {
+    display: block;
+    margin-top: 20px;
+}
+    
+/*** 
+=============================================
+    Pricing Table3 Area   style
+=============================================
+***/    
+.single-pricing-box3 .inner-content {
+    padding: 0 5px;
+}    
+
+/*** 
+=============================================
+    Single Service Area   style
+=============================================
+***/     
+.single-service-top .text-holder {
+    margin-top: 40px;
+}    
+
+/*** 
+=============================================
+    Faq Area style
+=============================================
+***/  
+.faq-sidebar .sidebar-appoinment {
+    margin-top: 70px;
+}    
+
+/*** 
+=============================================
+    Locations Area style
+=============================================
+***/      
+.single-location-box .text-holder {
+    padding: 60px 35px 59px;
+    padding-right: 10px;
+}    
+.single-location-box .text-holder ul li {
+    margin-bottom: 26px;
+}
+    
+/*** 
+=============================================
+    Corporate Services Area style
+=============================================
+***/     
+.corporate-services-box {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    margin-left: 0px;
+}    
+
+/*** 
+=============================================
+    Corporate Services Area style
+=============================================
+***/ 
+.specialities-image-box2 {
+    display: block;
+    max-width: 450px;
+    padding-bottom: 100px;
+}    
+.specialities-content2 .inner-content-box ul li {
+    max-width: 465px;
+    padding: 0 20px;
+}
+    
+/*** 
+=============================================
+    Appointment Style3 Area style
+=============================================
+***/ 
+.appoinment-form3 .appoinment {
+    max-width: 570px;
+    float: none;
+    margin-right: 0;
+    background: rgba(255, 255, 255, 0.93);
+    margin: 0 auto;
+}    
+.appointment-right-style3 .inner-content {
+    max-width: 470px;
+    width: 100%;
+    float: none;
+    margin-left: 0;
+    padding-top: 90px;
+    margin: 0 auto;
+}    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {  
+    
+/*** 
+=============================================
+    Top Bar Area style
+=============================================
+***/
+.top-bar .top-right {
+    max-width: 185px;
+}
+
+/*** 
+=============================================
+    header Area style  
+=============================================
+***/ 
+.header-style1-area .header-left {
+    width: 225px;
+}
+.header-style1-area .header-middle {
+    max-width: 240px;
+}    
+.header-style1-area .header-right {
+    width: 225px;
+}    
+ 
+/*** 
+=============================================
+    About v1 Area style
+=============================================
+***/     
+.about-left-content {
+    display: block;
+    margin-bottom: 50px;
+}    
+.about-right-content .single-box.left {
+    min-height: 185px;
+    padding: 35px 0;
+    margin: 0px 0 35px;
+}    
+    
+/*** 
+=============================================
+    Services Style1 Area style
+=============================================
+***/      
+.single-service-style1 {
+    max-width: 400px;
+    margin: 0 auto 40px;
+}    
+.services-style1-area .img-holder{
+    margin-bottom: 40px;
+}    
+  
+/*** 
+=============================================
+    Appointment Style1 Area style
+=============================================
+***/     
+.appointment-style1-area {
+    padding: 90px 0 90px;
+    background: #083061;
+    background-image: none !important;
+    margin-top: 35px;
+}    
+.appointment-right-style1 {
+    margin-top: 50px;
+    margin-left: 100px;
+}    
+    
+/*** 
+=============================================
+    Latest Blog Area style
+=============================================
+***/ 
+.single-blog-post {
+    max-width: 550px;
+    margin: 0 auto 60px;
+}
+    
+/*** 
+=============================================
+    Testimonial Area style
+=============================================
+***/ 
+.testimonial-area:before {
+    min-height: 357px;
+}   
+.testimonial-area .owl-carousel{
+	max-width:360px;
+}
+.single-testimonial-style1 .text-holder {
+    margin-right: 0px;
+    margin-bottom: 10px;
+}  
+        
+/*** 
+=============================================
+    Brand Area style
+=============================================
+***/     
+.brand-area .brand li {
+    max-width: 345px;
+}   
+    
+/*** 
+=============================================
+    Footer area  style
+=============================================
+***/
+.single-footer-widget.marbtm50{
+    display: block;
+    margin-bottom: 50px;
+}    
+.single-footer-widget.margin-left {
+    margin-left: 0;
+}
+
+    
+    
+    
+    
+/*** 
+=============================================
+    Header Style2 Area style
+=============================================
+***/     
+.header-style2-logo {
+    margin: 0px 0 30px;
+    float: none !important;
+    text-align: center;
+}
+.header-style2-logo a {
+    width: 200px;
+    margin: 0 auto;
+}
+.headers2-header-right {
+    float: none !important;
+    text-align: center;
+    overflow: hidden;
+} 
+.headers2-header-right ul {
+    overflow: hidden;
+}  
+.headers2-header-right ul li {
+    margin-right: 8px;
+    padding-right: 8px;
+}    
+    
+/*** 
+=============================================
+    Mainmenu Area Style2 style
+=============================================
+***/
+.mainmenu-area.style2 .inner-content {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 0;
+}    
+.mainmenu-area.style2 .button {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0px;
+    height: 80px;
+    z-index: 99;
+    margin: 0;
+    margin-right: 10px;
+} 
+.mainmenu-area.style2 .button a {
+    padding: 18px 20px;
+    border-radius: 0;
+    margin: 10px 0;
+}    
+.mainmenu-area.style2 .outer-search-box {
+    padding-left: 0px;
+    margin: 32px 0;
+    position: absolute;
+    top: 0;
+    right: 265px;
+    z-index: 99;
+}  
+.mainmenu-area.style2 .search-box.now-visible {
+    margin-top: 32px;
+}    
+
+/*** 
+=============================================
+    Services Style2 Area  style
+=============================================
+***/ 
+.services-style2-area {
+    padding-top: 90px;
+    padding-bottom: 159px;
+}    
+.single-service-style2 {
+    max-width: 370px;
+    margin: 0 auto 60px;
+}   
+
+/*** 
+=============================================
+    Why Choose Area  style
+=============================================
+***/
+.why-choose .content-box {
+    max-width: 100%;
+    width: 100%;
+    padding-bottom: 46px;
+}    
+.why-choose .content-box ul {
+    max-width: 500px;
+}    
+.why-choose .content-box ul.bdr-right:before {
+    display: none;
+}    
+ 
+/*** 
+=============================================
+    Services Process Area  style
+=============================================
+***/    
+.single-service-process:before {
+    display: none;
+}        
+/*** 
+=============================================
+    Specialities Area  style
+=============================================
+***/      
+.specialities-image-box {
+    margin: 0 auto 70px;
+}    
+    
+/*** 
+=============================================
+    Gallery Area  style
+=============================================
+***/      
+.gallery .sec-title {
+    margin: 0;
+    padding: 85px 0 83px;
+} 
+ 
+/*** 
+=============================================
+    Appointment Style2 Area  style
+=============================================
+***/     
+.appointment-right-style2 {
+    max-width: 570px;
+    background: #E9E9E9;
+    margin: 40px 0 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+  
+/*** 
+=============================================
+    Feedback Section Style
+=============================================
+***/     
+.feedback-section .carousel-outer {
+    overflow: hidden;
+    width: 100%;
+    max-width: 100%;
+    float: none;
+    margin-top: 0;
+}    
+.feedback-section .inner-content .video-holder {
+    position: relative;
+    top: auto;
+    bottom: auto;
+    right: auto;
+    max-width: 100%;
+    width: 100%;
+} 
+.feedback-section .inner-content .video-holder img{
+    transform: none;
+}    
+.feedback-section .inner-content .video-holder:hover img {
+    transform: none;
+}
+.feedback-section .carousel-outer .owl-theme .owl-nav {
+    position: absolute;
+    left: 0;
+    bottom: 0px;
+    width: 90px;
+    height: 90px;
+    z-index: 100;
+    margin: 0;
+}    
+    
+    
+    
+    
+
+ /*** 
+=============================================
+    Header Style3 Area  style
+=============================================
+***/    
+ .header-style3-logo {
+    float: none !important;
+    text-align: center;
+    margin-bottom: 15px;
+}   
+.headers3-header-right {
+    float: none !important;
+    overflow: hidden;
+    text-align: center;
+}    
+.headers3-header-right ul {
+    float: none;
+    padding-right: 0;
+    overflow: hidden;
+}    
+.headers3-header-right ul li {
+    display: block;
+    float: none;
+    border-right: none;
+    padding-right: 0;
+    margin-right: 0;
+    line-height: 40px;
+}    
+.headers3-header-right .toggler-button .nav-toggler {
+    top: 13px;
+    right: 0;
+}    
+   
+/*** 
+=============================================
+    Mainmenu Area Style4 style
+=============================================
+***/     
+.mainmenu-area.style4 .main-menu .navigation li {
+    position: relative;
+    float: none;
+    display: block;
+    padding: 0;
+    margin-right: 40px;
+}    
+.mainmenu-area.style4 .main-menu .navigation li a{
+    color: #ffffff;
+}    
+.mainmenu-area.style4 .help-line {
+    position: absolute;
+    top: 0;
+    right: 0px;
+    z-index: 10;
+    margin: 28px 0;
+}
+.mainmenu-area.style4 .outer-search-box {
+    position: absolute;
+    top: 0;
+    left: 70px;
+    padding-left: 0px;
+    margin: 32px 0;
+    z-index: 10;
+}
+.mainmenu-area.style4 .search-box.now-visible {
+    margin-top: 33px;
+}    
+ 
+    
+
+    
+    
+/*** 
+=============================================
+    Contact Info Area  style
+=============================================
+***/ 
+.contact-box-content .img-holder {
+    max-width: 100%;
+    width: 100%;
+}    
+.quick-contact-box {
+    margin-top: 40px;
+    padding: 54px 40px 48px;
+}
+.contact-form {
+    margin-left: 0;
+    padding-left: 0px;
+    z-index: 1;
+    margin-top: 50px;
+} 
+.contact-form:before {
+    display: none;
+} 
+.contact-form form .input-box .ui-selectmenu-button {
+    background: #ffffff;
+} 
+    
+/*** 
+=============================================
+    Location Map Area style
+=============================================
+***/      
+#contact-google-map {
+    max-width: 670px;
+    width: 100%;
+    height: 530px;
+    float: left;
+    margin-top: 40px;
+}    
+
+/*** 
+=============================================
+    Working Section style
+=============================================
+***/   
+.working-section .appointment-right-style2 {
+    max-width: 570px;
+    background: #ffffff;
+    margin: 0px auto 0;
+    padding: 0;
+}    
+/*** 
+=============================================
+    Shop Area style
+=============================================
+***/     
+#shop-area .sidebar-wrapper {
+    position: relative;
+    padding-top: 70px;
+}    
+    
+/*** 
+=============================================
+    Single Shop Area style
+=============================================
+***/     
+.single-shop-content .img-holder {
+    margin-right: 0px;
+    max-width: 330px;
+}  
+.single-shop-content .content-box {
+    margin-left: 0;
+    margin-top: 0;
+}   
+.related-product .single-product-item {
+    margin-bottom: 40px;
+}       
+    
+/*** 
+=============================================
+    Cart Area style
+=============================================
+***/      
+.cart-area .cart-bottom .calculate-shipping {
+    padding-bottom: 60px;
+}     
+    
+/*** 
+=============================================
+    Checkout Area style
+=============================================
+***/    
+.checkout-area .form.shipping-info {
+    padding-top: 60px;
+}    
+.checkout-area .cart-total {
+    padding-top: 60px;
+}      
+    
+/*** 
+=============================================
+    Login Register Area style
+=============================================
+***/     
+.login-register-area .form a.forgot-password {
+    margin: 70px 0 0;
+} 
+.login-register-area .register {
+    padding-top: 50px;
+}    
+.login-register-area .form h6 {
+    color: #797979;
+    float: left;
+    font-size: 14px;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 27px;
+}
+   
+/*** 
+=============================================
+    blog large area style
+=============================================
+***/  
+.blog-large-area .blog-post:before {
+    display: none;
+}    
+#blog-area .sidebar-wrapper {
+    margin-top: 80px;
+    padding-left: 0px;
+}      
+    
+/*** 
+=============================================
+    Blog Single area style
+=============================================
+***/
+.author-caption-box .text-holder {
+    display: block;
+    margin-top: 20px;
+}
+    
+/*** 
+=============================================
+    Brand Area Style3 style
+=============================================
+***/    
+.brand-area.style3 .brand li {
+    max-width: 325px;
+    margin-bottom: 45px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+/*** 
+=============================================
+    Single Service Area   style
+=============================================
+***/     
+.single-service-top .text-holder {
+    margin-top: 40px;
+}    
+.single-service-sidebar {
+    margin-left: 0px;
+    margin-top: 60px;
+}     
+    
+/*** 
+=============================================
+    About Content Area style
+=============================================
+***/     
+.about-content-box {
+    margin-top: 0;
+    padding-right: 0;
+    margin-bottom: 40px;
+}    
+    
+/*** 
+=============================================
+    Faq Area style
+=============================================
+***/  
+.faq-sidebar .sidebar-appoinment {
+    margin-top: 70px;
+}    
+.faq-content-box .inner-content .single-box .left-content {
+    max-width: 100%;
+    width: 100%;
+    float: none;
+}   
+.faq-content-box .inner-content .single-box .right-content {
+    float: none;
+    max-width: 100%;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 30px;
+}    
+.faq-content-box .inner-content .single-box .right-content:before {
+    display: none;
+}    
+.faq-content-box .inner-content .single-box .right-content:after {
+    display: none;
+}    
+    
+/*** 
+=============================================
+    Corporate Services Area style
+=============================================
+***/     
+.corporate-services-box {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    margin-left: 0px;
+}    
+
+    
+    
+    
+    
+/*** 
+=============================================
+    Mainmenu Area Style3 style
+=============================================
+***/  
+.mainmenu-area.style3 {
+    position: relative;
+    z-index: 999;
+}    
+.mainmenu-area.style3 .logo {
+    position: absolute;
+    top: 0;
+    left: 75px;
+    margin: 27px 0 28px;
+    margin-right: 0;
+    z-index: 10;
+} 
+.cart-toggler-option {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 80px;
+    width: 150px;
+    z-index: 10;
+}
+.cart-toggler-option .cart-button a {
+    width: 75px;
+    height: 80px;
+    line-height: 80px;
+} 
+.cart-toggler-option .toggler-button .nav-toggler {
+    width: 75px;
+    height: 80px;
+    line-height: 80px;
+} 
+.cart-toggler-option .toggler-button .nav-toggler .inner {
+    display: block;
+    margin: 32px 0 48px;
+}    
+.mainmenu-area.style3 .outer-search-box {
+    padding-left: 0px;
+    margin: 32px 0;
+    position: absolute;
+    top: 0;
+    right: 160px;
+    z-index: 10;
+}    
+.mainmenu-area.style3 .search-box.now-visible {
+    top: 100%;
+    margin-top: 32px;
+    opacity: 1;
+    visibility: visible;
+    z-index: 9999999;
+}    
+    
+/*** 
+=============================================
+    Repair Area style
+=============================================
+***/    
+.repair-area .repair-carousel {
+    margin-top: 0px;
+    background: #ffffff;
+}    
+    
+/*** 
+=============================================
+    Corporate Services Area style
+=============================================
+***/ 
+.specialities-image-box2 {
+    display: block;
+    max-width: 450px;
+    padding-bottom: 100px;
+}    
+.specialities-content2 .inner-content-box ul li {
+    max-width: 345px;
+    padding: 0 20px;
+}    
+    
+/*** 
+=============================================
+    Appointment Process Area style
+=============================================
+***/   
+.appointment-process ul li {
+    width: 50%;
+    margin-bottom: 40px;
+} 
+.appointment-process ul li:before{
+    display: none;
+}    
+.appointment-button {
+    display: block;
+    margin-top: 10px;
+}    
+    
+/*** 
+=============================================
+    Appointment Style3 Area style
+=============================================
+***/ 
+.appoinment-form3 .appoinment {
+    max-width: 570px;
+    float: none;
+    margin-right: 0;
+    background: rgba(255, 255, 255, 0.93);
+    margin: 0 auto;
+}    
+.appointment-right-style3 .inner-content {
+    max-width: 470px;
+    width: 100%;
+    float: none;
+    margin-left: 0;
+    padding-top: 90px;
+    margin: 0 auto;
+}    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+    
+}
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+/*** 
+=============================================
+    Top Bar Area style
+=============================================
+***/
+.top-bar-style1 {
+    padding: 20px 0;
+}    
+.top-bar .top-left {
+    max-width: 100%;
+    width: 100%;
+    float: none !important;
+    overflow: hidden;
+}
+.top-bar .top-left ul {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+.top-bar .top-left ul li {
+    display: block;
+    float: none;
+    margin-right: 0;
+    padding-right: 0;
+    border-right: none;
+    line-height: 24px;
+} 
+.top-bar .top-right {
+    max-width: 100%;
+    width: 100%;
+    float: none !important;
+    margin: 10px 0 0;
+} 
+.top-bar .top-right .header-social-links {
+    text-align: center;
+    line-height: 10px;
+    margin: 0;
+} 
+.top-bar .top-right .header-social-links li {
+    margin: 0 7px;
+}    
+
+/*** 
+=============================================
+    header Area style  
+=============================================
+***/ 
+.header-style1-area .header-left {
+    width: 235px;
+    float: none !important;
+    margin: 0 auto;
+    border: none;
+}
+.header-style1-area .header-middle {
+    max-width: 240px;
+    float: none !important;
+    margin: 0 auto;
+}  
+.logo {
+    display: inline-block;
+    transition: all 500ms ease;
+    margin: 10px 0;
+}    
+.header-style1-area .header-right {
+    width: 235px;
+    float: none !important;
+    margin: 0 auto;
+    border: none;
+} 
+
+/*** 
+=============================================
+    Call To Action Area style
+=============================================
+***/ 
+.call-to-action-area {
+    padding-bottom: 68px;
+    padding-top: 30px;
+}    
+.callto-action ul .single-box {
+    width: 100%;
+    max-width: 420px;
+    float: none;
+    text-align: center;
+    margin: 0 auto;
+    border: none;
+} 
+.callto-action ul .single-box .icon-holder {
+    top: -140px;
+} 
+.callto-action ul .single-box .icon-holder:before {
+    display: none;
+}    
+.callto-action ul .single-box .inner {
+    margin-top: 135px;
+    border: none;
+}    
+
+/*** 
+=============================================
+    About v1 Area style
+=============================================
+***/     
+.about-left-content {
+    display: block;
+    margin-bottom: 50px;
+}    
+.about-right-content .single-box.left {
+    min-height: 185px;
+    padding: 35px 0;
+    margin: 0px 0 35px;
+}    
+        
+/*** 
+=============================================
+    Services Style1 Area style
+=============================================
+***/      
+.single-service-style1 {
+    max-width: 400px;
+    margin: 0 auto 40px;
+}    
+.services-style1-area .img-holder{
+    margin-bottom: 40px;
+}    
+      
+/*** 
+=============================================
+    Appointment Style1 Area style
+=============================================
+***/     
+.appointment-style1-area {
+    padding: 90px 0 90px;
+    background: #083061;
+    background-image: none !important;
+    margin-top: 35px;
+}    
+.appointment-right-style1 {
+    margin-top: 50px;
+    margin-left: 0px;
+} 
+.appoinment .text p br{
+    display: none;
+}    
+        
+/*** 
+=============================================
+    Latest Blog Area style
+=============================================
+***/ 
+.single-blog-post {
+    max-width: 450px;
+    margin: 0 auto 60px;
+}
+        
+/*** 
+=============================================
+    Testimonial Area style
+=============================================
+***/ 
+.testimonial-area {
+    background: #EEF3F7
+}   
+.testimonial-area .owl-carousel{
+	max-width: 100%;
+}
+.single-testimonial-style1 .text-holder {
+    margin-right: 0px;
+    margin-bottom: 10px;
+    background: #ffffff;
+}  
+.testimonial-area .owl-theme .owl-nav {
+    position: relative;
+    left: 0;
+    right: 0;
+    bottom: 270px;
+}      
+    
+/*** 
+=============================================
+    Brand Area style
+=============================================
+***/     
+.brand-area .brand li {
+    max-width: 100%;
+}   
+        
+/*** 
+=============================================
+    Footer area  style
+=============================================
+***/
+.single-footer-widget.marbtm50{
+    display: block;
+    margin-bottom: 50px;
+}    
+.single-footer-widget.margin-left {
+    margin-left: 0;
+}
+.single-footer-widget.pdtop-50{
+    display: block;
+    padding-top: 50px;
+}        
+
+    
+    
+    
+ 
+/*** 
+=============================================
+    Top Bar style2  style
+=============================================
+***/ 
+.top-bar-style2 .top-bar {
+    padding: 12px 0 7px;
+}    
+.topmenu {
+    float: none !important;
+    overflow: hidden;
+    text-align: center;
+}    
+.topmenu li {
+    float: none;
+    margin: 0 5px;
+    line-height: 40px;
+} 
+.topmenu li:before {
+    display: none;
+}    
+.top-right-v2 {
+    padding-right: 60px;
+    margin: 0px 0 11px;
+    float: none !important;
+}    
+    
+/*** 
+=============================================
+    Header Style2 Area style
+=============================================
+***/  
+.header-style2-area {
+    padding: 29px 0 4px;
+}    
+.header-style2-logo {
+    margin: 0px 0 30px;
+    float: none !important;
+    text-align: center;
+}
+.header-style2-logo a {
+    width: 200px;
+    margin: 0 auto;
+}
+.headers2-header-right {
+    float: none !important;
+    text-align: center;
+    overflow: hidden;
+} 
+.headers2-header-right ul {
+    overflow: hidden;
+}  
+.headers2-header-right ul li {
+    margin: 0;
+    padding: 0;
+    display: block;
+    float: none;
+    border: none;
+    margin-bottom: 20px;
+}
+    
+/*** 
+=============================================
+    Mainmenu Area Style2 style
+=============================================
+***/
+.mainmenu-area.style2 .inner-content {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 0;
+}    
+.mainmenu-area.style2 .button {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0px;
+    height: 80px;
+    z-index: 99;
+    margin: 0;
+    margin-right: 10px;
+} 
+.mainmenu-area.style2 .button a {
+    padding: 18px 20px;
+    border-radius: 0;
+    margin: 10px 0;
+}    
+.mainmenu-area.style2 .outer-search-box {
+    padding-left: 0px;
+    margin: 32px 0;
+    position: absolute;
+    top: 0;
+    right: 265px;
+    z-index: 99;
+}  
+.mainmenu-area.style2 .search-box.now-visible {
+    margin-top: 32px;
+}       
+    
+/*** 
+=============================================
+    Services Style2 Area  style
+=============================================
+***/ 
+.services-style2-area {
+    padding-top: 90px;
+    padding-bottom: 159px;
+}    
+.single-service-style2 {
+    max-width: 370px;
+    margin: 0 auto 60px;
+}      
+    
+/*** 
+=============================================
+    Why Choose Area  style
+=============================================
+***/
+.why-choose .content-box {
+    max-width: 100%;
+    width: 100%;
+    padding-bottom: 46px;
+}    
+.why-choose .content-box ul {
+    max-width: 500px;
+}    
+.why-choose .content-box ul.bdr-right:before {
+    display: none;
+}    
+      
+/*** 
+=============================================
+    Services Process Area  style
+=============================================
+***/    
+.single-service-process:before {
+    display: none;
+}
+.single-service-process {
+    padding-bottom: 90px;
+    padding-right: 190px;
+}    
+.single-service-process.right{
+    padding-left: 190px;
+    padding-right: 0;
+}    
+
+/*** 
+=============================================
+    Specialities Area  style
+=============================================
+***/      
+.specialities-image-box {
+    margin: 0 auto 70px;
+    max-width: 250px;
+}
+.specialities-image-box .single-option.one {
+    left: -45px;
+    top: 60px;
+}    
+.specialities-image-box .single-option.two {
+    left: -125px;
+    bottom: 100px;
+}    
+.specialities-image-box .single-option.four {
+    top: 35px;
+    right: -70px;
+    width: 165px;
+} 
+.specialities-image-box .single-option.five {
+    top: 120px;
+    right: -50px;
+}    
+.specialities-image-box .single-option.six {
+    right: -85px;
+    bottom: 75px;
+}
+.specialities-image-box .single-option.three {
+    left: 20px;
+    bottom: 40px;
+    width: 120px;
+}    
+.specialities-content .inner-content {
+    margin-left: 0px;
+}    
+    
+/*** 
+=============================================
+    Gallery Area  style
+=============================================
+***/      
+.gallery .sec-title {
+    margin: 0;
+    padding: 0px 0 50px;
+}
+    
+/*** 
+=============================================
+    Feedback Section Style
+=============================================
+***/     
+.feedback-section .carousel-outer {
+    overflow: hidden;
+    width: 100%;
+    max-width: 100%;
+    float: none;
+    margin-top: 0;
+}    
+.feedback-section .inner-content .video-holder {
+    position: relative;
+    top: auto;
+    bottom: auto;
+    right: auto;
+    max-width: 100%;
+    width: 100%;
+} 
+.feedback-section .inner-content .video-holder img{
+    transform: none;
+}    
+.feedback-section .inner-content .video-holder:hover img {
+    transform: none;
+}
+.feedback-section .carousel-outer .owl-theme .owl-nav {
+    position: absolute;
+    left: 0;
+    bottom: 0px;
+    width: 90px;
+    height: 90px;
+    z-index: 100;
+    margin: 0;
+}       
+   
+/*** 
+=============================================
+    Appointment Style2 Area  style
+=============================================
+***/     
+.appointment-right-style2 {
+    max-width: 570px;
+    background: #E9E9E9;
+    margin: 40px 0 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}    
+
+    
+    
+
+    
+ /*** 
+=============================================
+    Header Style3 Area  style
+=============================================
+***/    
+ .header-style3-logo {
+    float: none !important;
+    text-align: center;
+    margin-bottom: 15px;
+}   
+.headers3-header-right {
+    float: none !important;
+    overflow: hidden;
+    text-align: center;
+}    
+.headers3-header-right ul {
+    float: none;
+    padding-right: 0;
+    overflow: hidden;
+}    
+.headers3-header-right ul li {
+    display: block;
+    float: none;
+    border-right: none;
+    padding-right: 0;
+    margin-right: 0;
+    line-height: 40px;
+}    
+.headers3-header-right .toggler-button .nav-toggler {
+    top: 13px;
+    right: 0;
+}    
+   
+/*** 
+=============================================
+    Mainmenu Area Style4 style
+=============================================
+***/     
+.mainmenu-area.style4 .main-menu .navigation li {
+    position: relative;
+    float: none;
+    display: block;
+    padding: 0;
+    margin-right: 40px;
+}    
+.mainmenu-area.style4 .main-menu .navigation li a{
+    color: #ffffff;
+}    
+.mainmenu-area.style4 .help-line {
+    position: absolute;
+    top: 0;
+    right: 0px;
+    z-index: 10;
+    margin: 28px 0;
+}
+.mainmenu-area.style4 .outer-search-box {
+    position: absolute;
+    top: 0;
+    left: 70px;
+    padding-left: 0px;
+    margin: 32px 0;
+    z-index: 10;
+}
+.mainmenu-area.style4 .search-box.now-visible {
+    margin-top: 33px;
+}    
+    
+/*** 
+=============================================
+    Breadcrumb Area Style
+=============================================
+***/
+.breadcrumb-area .title {
+    display: block;
+    float: none;
+    margin: 0 0 20px;
+}    
+.breadcrumb-area .breadcrumb-menu {
+    display: block;
+    float: none;
+}
+
+    
+    
+    
+ 
+/*** 
+=============================================
+    Contact Info Area  style
+=============================================
+***/ 
+.contact-box-content .img-holder {
+    max-width: 100%;
+    width: 100%;
+}    
+.quick-contact-box {
+    margin-top: 40px;
+    padding: 54px 40px 48px;
+}
+.contact-form {
+    margin-left: 0;
+    padding-left: 0px;
+    z-index: 1;
+    margin-top: 50px;
+} 
+.contact-form:before {
+    display: none;
+} 
+.contact-form form .input-box .ui-selectmenu-button {
+    background: #ffffff;
+} 
+    
+/*** 
+=============================================
+    Location Map Area style
+=============================================
+***/      
+#contact-google-map {
+    max-width: 670px;
+    width: 100%;
+    height: 530px;
+    float: left;
+    margin-top: 40px;
+}    
+
+/*** 
+=============================================
+    Working Section style
+=============================================
+***/   
+.working-section .appointment-right-style2 {
+    max-width: 570px;
+    background: #ffffff;
+    margin: 0px auto 0;
+    padding: 0;
+}    
+/*** 
+=============================================
+    Shop Area style
+=============================================
+***/     
+#shop-area .sidebar-wrapper {
+    position: relative;
+    padding-top: 70px;
+}    
+    
+/*** 
+=============================================
+    Single Shop Area style
+=============================================
+***/     
+.single-shop-content .img-holder {
+    margin-right: 0px;
+    max-width: 400px;
+}    
+.single-shop-content .content-box {
+    margin-left: 0;
+    margin-top: 35px;
+}   
+.related-product .single-product-item {
+    margin-bottom: 40px;
+}      
+    
+/*** 
+=============================================
+    Cart Area style
+=============================================
+***/
+.cart-middle .apply-coupon {
+    padding-left: 0;
+}       
+.cart-middle .apply-coupon input[type="text"] {
+    margin: 0 0 20px;
+    position: static;
+    width: 225px;
+}    
+.cart-area .cart-bottom .calculate-shipping {
+    padding-bottom: 60px;
+}    
+.cart-middle .update-cart {
+    float: left !important;
+    margin: 20px 0 0;
+}        
+.cart-bottom .calculate-shipping input[type="text"] {
+    margin-bottom: 25px;
+}             
+    
+/*** 
+=============================================
+    Checkout Area style
+=============================================
+***/    
+.checkout-area .form.shipping-info {
+    padding-top: 60px;
+}    
+.checkout-area .cart-total {
+    padding-top: 60px;
+}   
+.checkout-area .exisitng-customer h5 a {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-top: 7px;
+}
+.checkout-area .coupon h5 a {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-top: 7px;
+}       
+    
+/*** 
+=============================================
+    Login Register Area style
+=============================================
+***/  
+.login-register-area .form a.forgot-password {
+    float: left;
+    margin: 35px 0 0;
+}  
+.login-register-area .form.register {
+    padding-top: 60px;
+}    
+.login-register-area .form .social-icon {
+    float: left;
+    margin-right: 0;
+    margin-top: 30px;
+}    
+.login-register-area .form .social-icon span {
+    left: 0;
+    position: relative;
+} 
+.login-register-area .form .social-icon .login-with {
+    position: static;
+}    
+.login-register-area .form h6 {
+    margin: 20px 0 0;
+}
+.login-register-area .form .right {
+    display: block;
+    overflow: hidden;
+    margin-left: 0px;
+}
+
+/*** 
+=============================================
+    blog large area style
+=============================================
+***/  
+.blog-large-area .blog-post:before {
+    display: none;
+}     
+#blog-area .sidebar-wrapper {
+    margin-top: 80px;
+    padding-left: 0px;
+}  
+    
+/*** 
+=============================================
+    Blog Single area style
+=============================================
+***/
+.blog-prev-next-option:before {
+    display: none;
+}     
+.author-caption-box .text-holder {
+    display: block;
+    margin-top: 20px;
+}     
+.blog-prev-next-option .single{
+    width: 100%;
+} 
+.blog-prev-next-option .single.next {
+    float: left;
+    margin-top: 30px;
+} 
+.blog-prev-next-option .single.next .title {
+    text-align: left;
+    padding-left: 0px;
+}    
+    
+/*** 
+=============================================
+    Brand Area Style3 style
+=============================================
+***/    
+.brand-area.style3 .brand li {
+    max-width: 100%;
+    margin-bottom: 45px;
+    margin-right: 0px;
+    text-align: center;
+}    
+    
+/*** 
+=============================================
+    Single Service Area   style
+=============================================
+***/     
+.single-service-top .text-holder {
+    margin-top: 40px;
+}    
+.single-service-sidebar {
+    margin-left: 0px;
+    margin-top: 60px;
+}     
+    
+/*** 
+=============================================
+    About Content Area style
+=============================================
+***/     
+.about-content-box {
+    margin-top: 0;
+    padding-right: 0;
+    margin-bottom: 40px;
+}    
+ 
+/*** 
+=============================================
+    Faq Area style
+=============================================
+***/  
+.faq-sidebar .sidebar-appoinment {
+    margin-top: 70px;
+}    
+.faq-content-box .inner-content .single-box .left-content {
+    max-width: 100%;
+    width: 100%;
+    float: none;
+}   
+.faq-content-box .inner-content .single-box .right-content {
+    float: none;
+    max-width: 100%;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 30px;
+}    
+.faq-content-box .inner-content .single-box .right-content:before {
+    display: none;
+}    
+.faq-content-box .inner-content .single-box .right-content:after {
+    display: none;
+}    
+       
+/*** 
+=============================================
+    Corporate Services Area style
+=============================================
+***/     
+.corporate-services-box {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    margin-left: 0px;
+    display: none;
+}    
+.corporate-services-left {
+    padding-top: 400px;
+}
+.corporate-services-right {
+    padding-top: 400px;
+}    
+    
+    
+ 
+
+    
+/*** 
+=============================================
+    Top Bar Style3 style
+=============================================
+***/
+.top-bar-style3 {
+    padding: 17px 0 19px;
+}    
+.top-bar.style3 .top-left ul li{
+    border: none;
+    line-height: 30px;
+}    
+.top-bar.style3 .top-right {
+    float: none !important;
+    text-align: center;
+} 
+     
+/*** 
+=============================================
+    Mainmenu Area Style3 style
+=============================================
+***/  
+.mainmenu-area.style3 {
+    position: relative;
+    z-index: 999;
+}    
+.mainmenu-area.style3 .logo {
+    position: absolute;
+    top: 0;
+    left: 75px;
+    margin: 27px 0 28px;
+    margin-right: 0;
+    z-index: 10;
+} 
+.cart-toggler-option {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 80px;
+    width: 150px;
+    z-index: 10;
+}
+.cart-toggler-option .cart-button a {
+    width: 75px;
+    height: 80px;
+    line-height: 80px;
+} 
+.cart-toggler-option .toggler-button .nav-toggler {
+    width: 75px;
+    height: 80px;
+    line-height: 80px;
+} 
+.cart-toggler-option .toggler-button .nav-toggler .inner {
+    display: block;
+    margin: 32px 0 48px;
+}    
+.mainmenu-area.style3 .outer-search-box {
+    padding-left: 0px;
+    margin: 32px 0;
+    position: absolute;
+    top: 0;
+    right: 160px;
+    z-index: 10;
+}    
+.mainmenu-area.style3 .search-box.now-visible {
+    top: 100%;
+    margin-top: 32px;
+    opacity: 1;
+    visibility: visible;
+    z-index: 9999999;
+}        
+     
+/*** 
+=============================================
+    Repair Area style
+=============================================
+***/    
+.repair-area .repair-carousel {
+    margin-top: 0px;
+    background: #ffffff;
+}     
+
+/*** 
+=============================================
+    Corporate Services Area style
+=============================================
+***/ 
+.specialities-image-box2 {
+    display: block;
+    max-width: 450px;
+    padding-bottom: 100px;
+}    
+.specialities-content2 .inner-content-box ul li {
+    max-width: 345px;
+    margin: 0 auto;
+    padding: 0 20px;
+    border: none;
+    float: none;
+}    
+.specialities-content2 .inner-content-box ul li:nth-child(1) {
+    border: none;
+}      
+.specialities-content2 .inner-content-box ul li:nth-child(2){
+    border: none;
+    padding: 0;
+}    
+.specialities-content2 .inner-content-box ul li:nth-child(3){
+    border: none;
+}
+    
+/*** 
+=============================================
+    Appointment Process Area style
+=============================================
+***/   
+.appointment-process ul li {
+    width: 100%;
+    margin-bottom: 40px;
+} 
+.appointment-process ul li:before{
+    display: none;
+}    
+.appointment-button {
+    display: block;
+    margin-top: 10px;
+}    
+   
+/*** 
+=============================================
+    Appointment Style3 Area style
+=============================================
+***/ 
+.appoinment-form3 .appoinment {
+    max-width: 570px;
+    float: none;
+    margin-right: 0;
+    background: rgba(255, 255, 255, 0.93);
+    margin: 0 auto;
+}    
+.appointment-right-style3 .inner-content {
+    max-width: 470px;
+    width: 100%;
+    float: none;
+    margin-left: 0;
+    padding-top: 90px;
+    margin: 0 auto;
+}    
+    
+    
+  
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px){}
+@media only screen and (max-width: 599px){ 
+    
+.single-repair-item {
+    display: block;
+    float: none;
+    background: #ffffff;
+    padding: 79px 0 44px;
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    border-left: 1px solid #f2f2f2;
+    border-top: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
+    border-right: 1px solid #f2f2f2;
+}
+    
+    
+    
+}
+
+
+
+@media (min-width: 992px){ 
+
+.navbar-collapse.collapse {
+    display: block !important;
+    height: auto;
+    padding-bottom: 0;
+    overflow: visible !important;
+}
+.navbar-toggle {
+    display: none !important;
+} 
+    
+
+    
+}
+
+
+
+@media only screen and (max-width: 991px){ 
+    
+.mainmenu-area .inner-content{
+    position: relative;
+    display: block;
+}         
+.main-menu {
+    display: block;
+    padding-top: 17px;
+    padding-bottom: 0px;
+    z-index: 5;
+    width: 100%;
+}
+.main-menu .navigation li {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+}   
+.main-menu .collapse {
+    border: none;
+    border-radius: 0px !important;
+    float: none;
+    margin: 0;
+    height: auto;
+    overflow: auto;
+    padding: 0;
+    width: 100%;
+}    
+.main-menu .collapse.in, 
+.main-menu .collapsing {
+    border: none;
+    border-radius: 0px;
+    margin: 0;
+    padding: 0;
+    border-top: none;
+}    
+.main-menu .navbar-header {
+    position: relative;
+    float: none;
+    display: block;
+    text-align: right;
+    width: 100%;
+    padding: 63px 0 0;
+    right: 0px;
+    z-index: 12;
+}    
+.main-menu .navbar-header .navbar-toggle {
+    background: #000100;
+    border: 1px dashed #000100;
+    display: inline-block;
+    border-radius: 3px;
+    float: none;
+    margin: 0;
+    z-index: 7;
+    width: 50px;
+    height: 47px;
+    cursor: pointer;
+    padding: 0 9px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.main-menu .navbar-header .navbar-toggle .icon-bar {
+    display: block;
+    background: #e7e7e7;
+    width: 30px;
+    height: 2px;
+    border-radius: 1px;
+}
+.main-menu .navbar-header .navbar-toggle .icon-bar+.icon-bar {
+    margin-top: 6px;
+}
+.main-menu .navbar-collapse .navigation > li > ul{
+    padding: 0px 0px;        
+}    
+.main-menu .navbar-collapse .navigation > li > ul:before {
+    display: none;
+}   
+.main-menu .navbar-collapse > .navigation {
+    background: #000000 !important;
+    float: none !important;
+    width: 100% !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}   
+.main-menu .navbar-collapse .navigation > li{
+    margin:0px !important;
+    float:none !important;
+    width:100%;
+    padding: 0;
+} 
+.main-menu .navbar-collapse .navigation li::before {
+    display: none;
+}
+.main-menu .navbar-collapse .navigation li::after {
+    display: none;
+}    
+.main-menu .navbar-collapse .navigation li.dropdown > a:after{
+    display:none !important;
+} 
+.main-menu .navbar-collapse .navigation li a:after {
+    display: none;
+}
+.main-menu .navbar-collapse > .navigation > li > a{}     
+.main-menu .navbar-collapse > .navigation > li > ul,
+.main-menu .navbar-collapse > .navigation > li > ul > li > ul{
+    position:relative;
+    float:none;
+    visibility:visible;
+    opacity:1;
+    display:none;
+    margin:0px;
+    left:auto !important;
+    right:auto !important;
+    top:auto !important;
+    width:100%;
+    background: none;
+    border-radius:0px;
+    transition:none !important;
+}       
+.main-menu .navbar-collapse > .navigation > li,
+.main-menu .navbar-collapse > .navigation > li > ul > li{
+    border-top: 1px solid #101010;
+    opacity:1 !important;
+    top:0px !important;
+    left:0px !important;
+    visibility:visible !important;
+}  
+.main-menu .navbar-collapse > .navigation > li:last-child,
+.main-menu .navbar-collapse > .navigation > li > ul > li:last-child{
+    border-bottom: 1px solid #101010;         
+}    
+.main-menu .navbar-collapse > .navigation > li > a {
+    padding: 10px 10px !important;
+    line-height: 22px;
+    color: #ffffff;
+    text-align: left; 
+}
+.main-menu .navbar-collapse .navigation li a::before {
+    display: none;
+}         
+.main-menu .navbar-collapse .navigation li ul li{
+    padding: 0;        
+} 
+.main-menu .navbar-collapse .navigation li ul li:last-child {
+    border-bottom: none;
+}   
+.main-menu .navbar-collapse .navigation li ul li a {
+    padding: 10px 10px !important;
+    line-height: 22px;
+    color: #ffffff;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-family: 'Rubik', sans-serif;
+}
+.main-menu .navbar-collapse .navigation li ul li a:before {
+    display: none;
+}
+   
+.main-menu .navbar-collapse > .navigation > li > a:hover,
+.main-menu .navbar-collapse > .navigation > li > a:active,
+.main-menu .navbar-collapse > .navigation > li > a:focus{
+    
+} 
+.main-menu .navbar-collapse > .navigation > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li.current > a{
+    background: #083061;
+    color: #ffffff !important;
+}        
+.main-menu .navbar-collapse > .navigation li.dropdown .dropdown-btn{
+    display:block;
+}
+
+    
+    
+    
+.mainmenu-area.style2 {
+    margin-bottom: 0px;
+}    
+.mainmenu-area.style2 .main-menu {
+    position: relative;
+    display: block;
+    float: none;
+}    
+.mainmenu-area.style2 .main-menu .navbar-collapse .navigation li {
+    position: relative;
+    display: block;
+    padding: 0;
+}    
+.mainmenu-area.style2 .main-menu .navbar-collapse .navigation li a {
+    padding: 22px 5px;
+    color: #ffffff;
+}    
+.main-menu .navbar-collapse > .navigation > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,     
+.main-menu .navbar-collapse > .navigation > li.current > a{
+    background: #f3441e;
+    color: #ffffff !important;
+}     
+    
+    
+ 
+
+    
+.mainmenu-area.style3 .main-menu .navbar-collapse > .navigation > li:hover > a,
+.mainmenu-area.style3 .main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,     
+.mainmenu-area.style3 .main-menu .navbar-collapse > .navigation > li.current > a{
+    background: #3aabd0;
+    color: #ffffff !important;
+}       
+.mainmenu-area.style3 .main-menu .navigation li {
+    position: relative;
+    padding: 0;
+}
+    
+    
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {  
+.main-slider .slide-content.left-slide{ 
+    margin-left: 100px; 
+}    
+    
+ 
+  
+}
+
+@media only screen and (min-width: 1040px) and (max-width: 1199px) {  
+.main-slider .slide-content.left-slide{ 
+    margin-left: 100px; 
+}    
+    
+ 
+   
+}
+
+@media only screen and (min-width: 778px) and (max-width: 1039px){
+.main-slider .slide-content.left-slide{ 
+    margin-left: 100px; 
+}     
+.main-slider .slide-content .big-title{
+	font-size: 32px;
+	line-height: 1.2em;
+}
+.main-slider .slide-content .big-title span{
+    font-weight: 600;
+}
+.main-slider .slide-content .text{
+	font-size: 16px;
+	margin: 5px 0 0px;
+}
+.main-slider .slide-content.left-slide .btn-box{
+    margin: 0px;    
+}
+.main-slider .slide-content .btn-box a.sb1{
+    padding: 17px 18px 19px;
+    margin-top: 10px !important;
+}
+    
+    
+}
+
+
+
+
+@media only screen and (max-width: 777px) {  
+/*** 
+=============================================
+    Rev slider wrapper style
+=============================================
+***/ 
+.main-slider {
+    position: relative;
+    margin-top: 0;
+}
+.tparrows {
+    top: 50% !important;
+    display: block;
+}  
+.tp-forcenotvisible {
+    visibility: visible !important;
+    display: block !important;
+}  
+.main-slider .slide-content{
+    display: none;
+}    
+    
+    
+}

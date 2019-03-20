@@ -1,0 +1,212 @@
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoonda59.eot?vdw2jk');
+  src:  url('../fonts/icomoonda59.eot?vdw2jk#iefix') format('embedded-opentype'),
+    url('../fonts/icomoonda59.ttf?vdw2jk') format('truetype'),
+    url('../fonts/icomoonda59.woff?vdw2jk') format('woff'),
+    url('../fonts/icomoonda59.svg?vdw2jk#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+.icon-fruit-1:before {
+  content: "\e900";
+}
+.icon-signs-2:before {
+  content: "\e901";
+}
+.icon-time:before {
+  content: "\e902";
+}
+.icon-multimedia:before {
+  content: "\e903";
+}
+.icon-technology-1:before {
+  content: "\e904";
+}
+.icon-sign:before {
+  content: "\e905";
+}
+.icon-arrows-5:before {
+  content: "\e906";
+}
+.icon-folder:before {
+  content: "\e907";
+}
+.icon-healthy-1:before {
+  content: "\e908";
+}
+.icon-exercise-3:before {
+  content: "\e909";
+}
+.icon-people-5:before {
+  content: "\e90a";
+}
+.icon-people-4:before {
+  content: "\e90b";
+}
+.icon-people-3:before {
+  content: "\e90c";
+}
+.icon-exercise-2:before {
+  content: "\e90d";
+}
+.icon-sports-1:before {
+  content: "\e90e";
+}
+.icon-people-2:before {
+  content: "\e90f";
+}
+.icon-healthy:before {
+  content: "\e910";
+}
+.icon-strength:before {
+  content: "\e911";
+}
+.icon-shape-1:before {
+  content: "\e912";
+}
+.icon-null-1:before {
+  content: "\e913";
+}
+.icon-tool-1:before {
+  content: "\e914";
+}
+.icon-signs-1:before {
+  content: "\e915";
+}
+.icon-null:before {
+  content: "\e916";
+}
+.icon-clock-1:before {
+  content: "\e917";
+}
+.icon-school:before {
+  content: "\e918";
+}
+.icon-signs:before {
+  content: "\e919";
+}
+.icon-shapes-1:before {
+  content: "\e91a";
+}
+.icon-circle:before {
+  content: "\e91b";
+}
+.icon-shape:before {
+  content: "\e91c";
+}
+.icon-technology:before {
+  content: "\e91d";
+}
+.icon-people-1:before {
+  content: "\e91e";
+}
+.icon-stars:before {
+  content: "\e91f";
+}
+.icon-exercise-1:before {
+  content: "\e920";
+}
+.icon-gym:before {
+  content: "\e921";
+}
+.icon-paper:before {
+  content: "\e922";
+}
+.icon-link:before {
+  content: "\e923";
+}
+.icon-arrows-4:before {
+  content: "\e924";
+}
+.icon-interface-1:before {
+  content: "\e925";
+}
+.icon-calendar:before {
+  content: "\e926";
+}
+.icon-people:before {
+  content: "\e927";
+}
+.icon-hand:before {
+  content: "\e928";
+}
+.icon-food:before {
+  content: "\e929";
+}
+.icon-transport:before {
+  content: "\e92a";
+}
+.icon-berry:before {
+  content: "\e92b";
+}
+.icon-tool:before {
+  content: "\e92c";
+}
+.icon-arrows-3:before {
+  content: "\e92d";
+}
+.icon-two:before {
+  content: "\e92e";
+}
+.icon-exercise:before {
+  content: "\e92f";
+}
+.icon-sports:before {
+  content: "\e930";
+}
+.icon-fruit:before {
+  content: "\e931";
+}
+.icon-medical:before {
+  content: "\e932";
+}
+.icon-shapes:before {
+  content: "\e933";
+}
+.icon-arrows-2:before {
+  content: "\e934";
+}
+.icon-arrows-1:before {
+  content: "\e935";
+}
+.icon-telephone:before {
+  content: "\e936";
+}
+.icon-play:before {
+  content: "\e937";
+}
+.icon-arrows:before {
+  content: "\e938";
+}
+.icon-interface:before {
+  content: "\e939";
+}
+.icon-clock:before {
+  content: "\e93a";
+}
+.icon-location:before {
+  content: "\e93b";
+}

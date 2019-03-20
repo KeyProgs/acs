@@ -1,0 +1,84 @@
+@extends('layouts.app')
+@section('content')
+    @include('includes.breadcrumb.page-header',['home'=>'accueil','page'=>'modification de mot de pass','title'=>'Mot de passe modification'])
+    <!--Start login area-->
+    <section class="login-register-area">
+        <div class="container">
+            <div class="row">
+                <div class="offset-xl-2 col-xl-8 col-lg-12 col-md-6 col-sm-12">
+                    @if(Session::has('message'))
+                        <div class="alert {{ Session::get('alert-class', 'alert-info') }} alert-styled-left rounded-0"
+                             id="fiche-alert">
+                            <button type="button" class="close" data-dismiss="alert"><span>×</span>
+                                <span class="sr-only">Close</span></button>
+                            <h4 class="alert-heading">warning !</h4>
+                            <p class="mb-0">
+                                {{ Session::get('message') }}
+                            </p>
+                        </div>
+                    @endif
+                    <div class="form">
+                        <div class="title-box">
+                            <h3>Changement de mot de passe</h3>
+                        </div>
+                        <div class="row">
+                            <form action="{{url('/espace-client/mot-de-pass-modification')}}" method="post">
+                                @csrf
+                                <div class="col-xl-12 pb-3">
+                                    <div class="input-field">
+                                        <input type="password" name="mot_de_passe_courant"
+                                               placeholder="Mot de passe courant"
+                                               value="" style="margin-bottom: 0 !important;">
+                                        <div class="icon-holder">
+                                            <i class="fa fa-lock" aria-hidden="true"></i>
+                                        </div>
+                                        @if($errors->has('mot_de_passe_courant'))
+                                            <span class="error text-danger">*{{ $errors->first('mot_de_passe_courant') }}</span>
+                                        @endif
+                                    </div>
+                                </div>
+                                <div class="col-xl-12 mt-5">
+                                    <div class="input-field">
+                                        <input type="password" name="mot_de_passe" placeholder="Nouveau mot de passe"
+                                               style="margin-bottom: 0 !important;">
+                                        <div class="icon-holder">
+                                            <i class="fa fa-lock" aria-hidden="true"></i>
+                                        </div>
+                                        @if($errors->has('mot_de_passe'))
+                                            <span class="error text-danger">*{{ $errors->first('mot_de_passe') }}</span>
+                                        @endif
+                                    </div>
+                                </div>
+
+                                <div class="col-xl-12 mt-4 pb-3">
+                                    <div class="input-field">
+                                        <input type="password" name="mot_de_passe_confirmation"
+                                               placeholder="Retapez le nouveau mot de passe"
+                                               style="margin-bottom: 0 !important;">
+                                        <div class="icon-holder">
+                                            <i class="fa fa-lock" aria-hidden="true"></i>
+                                        </div>
+                                        @if($errors->has('mod_de_passe_confirmation'))
+                                            <span class="error text-danger">*{{ $errors->first('mod_de_passe_confirmation') }}</span>
+                                        @endif
+                                    </div>
+                                </div>
+
+                                <div class="col-xl-12">
+                                    <div class="row">
+                                        <div class="col-xl-6 col-lg-6 col-sm-12">
+                                            <button class="btn-one thm-bg-clr"
+                                                    type="submit">Enregistrer les modificatiion
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End login area-->
+@endsection
